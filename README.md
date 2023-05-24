@@ -1,3 +1,3 @@
-# Touring_College_Exercises
+# Turing College Exercises
 
 A collection of public exercises found during studies at Turing College DS Course
