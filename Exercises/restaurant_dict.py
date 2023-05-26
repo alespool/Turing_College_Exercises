@@ -24,7 +24,6 @@ def restaurant_orders(user: str, request: Optional[List[str]]) -> None:
 
             price = MENU.get(order)
             if price is None:
-
                 print(f"We don't offer {order} at this time, sorry!")
                 continue
             else:
