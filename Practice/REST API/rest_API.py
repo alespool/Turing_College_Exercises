@@ -76,6 +76,7 @@ file_template = '''\
 </ol>
 '''
 
+
 @route('/files')
 def show_files():
     response.set_header('Vary', 'Accept')
