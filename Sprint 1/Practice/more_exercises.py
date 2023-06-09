@@ -2,7 +2,7 @@ import glob
 import os
 import csv
 
-folder_path = '/home/alessio-pc/PycharmProjects/Touring College - Exercises/congress_data'
+folder_path = '/Sprint 1/congress_data'
 
 # A global wildcard expansion
 # glob.glob('*.txt')

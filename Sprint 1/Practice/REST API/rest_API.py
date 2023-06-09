@@ -1,12 +1,10 @@
-import os
-
 from bottle import *
 from pprint import pprint
 import time
 import algebra_module
 import os
 
-path = '/home/alessio-pc/PycharmProjects/Touring College - Exercises/congress_data'
+path = '/Sprint 1/congress_data'
 
 
 # we use a decorator to attach a route/path
